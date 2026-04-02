@@ -9,4 +9,4 @@
 javac QuizApp.java
 java QuizApp
 ## Output Screenshot
-![Quiz Output](quiz-output.png)
+![Quiz Output](Quiz-output.png)
