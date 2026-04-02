@@ -1,2 +1,10 @@
-# Quiz-App
-A Java-based quiz application that presents multiple-choice questions to users and calculates their score.  It includes features like answer validation, result feedback, and interactive user input.  This project highlights problem-solving, control flow, and data handling in Java.
+# Quiz Application
+
+## Features
+- Multiple choice questions
+- Score calculation
+- Result feedback
+
+## How to run
+javac QuizApp.java
+java QuizApp
